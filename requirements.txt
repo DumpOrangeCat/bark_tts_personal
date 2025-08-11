@@ -1,0 +1,3 @@
+bark==0.0.4a
+torch==2.2.0+cpu
+soundfile==0.12.1

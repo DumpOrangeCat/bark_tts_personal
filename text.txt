@@ -1,0 +1,83 @@
+Như tiêu đề, hôm nay mình sẽ hướng dẫn cách cài đặt mod vào file APK. Bắt đầu thôi.
+
+Đầu tiên, chúng ta sẽ cần một số ứng dụng.
+
+Ứng dụng đầu tiên là Files của Google.
+
+Và tiếp theo là MT Manager.
+
+Bây giờ mình sẽ hướng dẫn cách sao lưu dữ liệu game trước.
+
+Mở ứng dụng Files.
+
+Vào thư mục Android, sau đó vào Data.
+
+Tìm đến thư mục net.wargaming.wot.blitz hoặc app.wotblitz.com.
+
+Nhấn giữ để chọn thư mục này.
+
+Đổi thành một tên bất kỳ để tránh mất dữ liệu.
+
+Giờ thì gỡ cài đặt game.
+
+Bắt đầu bước thêm mod vào APK.
+
+Mở MT Manager.
+
+Bạn sẽ thấy hai cửa sổ để thao tác.
+
+Chuyển đến thư mục chứa XAPK và file mod.
+
+Ở đây mình để trong thư mục Download.
+
+Nhấp vào file XAPK — mình kéo để đánh dấu cho dễ thấy.
+
+Khi nó hiện bảng tùy chọn, chọn "View".
+
+Tìm và chọn file APK tên net.wargaming.wot.blitz.
+
+Khi hiện bảng ở giữa, chọn "Extract".
+
+Tiếp tục mở file mod.
+
+Mở file APK vừa giải nén ra.
+
+Nhấn "View".
+
+Trong thư mục assets,data, tìm các file trùng tên với file bên mod.
+
+Chọn file ở bên mod rồi nhấn "add+".
+
+Chọn "Replace All".
+
+Chọn OK.
+
+Quay trở lại thư mục ngoài.
+
+Chọn file XAPK rồi copy ra.
+
+Chọn file XAPK vừa copy.
+
+Nhấn "View".
+
+Thêm file APK đã chỉnh sửa vào lại.
+
+Nhấn OK.
+
+Thoát ra.
+
+Chọn "Sign".
+
+Bước này chọn tùy theo phiên bản Android của bạn.
+
+Nhấn OK.
+
+Giờ chọn file và cài đặt.
+
+Mở lại Files và đổi tên thư mục dữ liệu về như cũ.
+
+Vào game để test mod.
+
+Video của mình đến đây là kết thúc.
+
+Chúc mọi người trải nghiệm mod vui vẻ!
